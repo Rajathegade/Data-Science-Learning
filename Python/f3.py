@@ -1,1 +1,1 @@
-print ("Hellow Hollow World")
+print ("Hollow World")
